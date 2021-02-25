@@ -1,0 +1,38 @@
+h1{
+    color: aquamarine;
+}
+*{
+    border: solid;
+}
+.header{
+    background-color: burlywood;
+    display: flex;
+    justify-content: space-between;
+}
+.header{
+    padding-left: 30px;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+.footer{
+    margin-left: 20px;
+    margin-right: 20px;
+    color: dimgrey;
+    padding-right: 32px;
+}
+body{
+    background-color:#808080;
+}
+a:link{
+    color: forestgreen;
+}
+a:visited{
+    color: darkred;
+}
